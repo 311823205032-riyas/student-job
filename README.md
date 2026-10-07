@@ -4,6 +4,12 @@ A beginner-friendly React and Vite mini project for exploring sample internships
 
 > The internship listings are sample records for demonstration and are not verified live vacancies.
 
+## Live website
+
+[Open Student Job Tracker](https://311823205032-riyas.github.io/student-job/)
+
+The site is published to GitHub Pages by the workflow in `.github/workflows/deploy.yml` whenever changes are pushed to `main`.
+
 ## Run locally
 
 ```bash
